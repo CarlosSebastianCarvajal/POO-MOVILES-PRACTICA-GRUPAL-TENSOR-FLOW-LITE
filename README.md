@@ -11,4 +11,8 @@ Imagenes
 
 ![2](https://github.com/CarlosSebastianCarvajal/POO-MOVILES-PRACTICA-GRUPAL-TENSOR-FLOW-LITE/blob/main/bananoejemplo.jpg?raw=true)
 
-![](https://github.com/CarlosSebastianCarvajal/POO-MOVILES-PRACTICA-GRUPAL-TENSOR-FLOW-LITE/blob/main/cacaoejemplo.jpg?raw=true)
+![3](https://github.com/CarlosSebastianCarvajal/POO-MOVILES-PRACTICA-GRUPAL-TENSOR-FLOW-LITE/blob/main/cacaoejemplo.jpg?raw=true)
+
+.TFLITE en proyecto
+
+![4](https://github.com/CarlosSebastianCarvajal/POO-MOVILES-PRACTICA-GRUPAL-TENSOR-FLOW-LITE/blob/main/archivoadd.jpg?raw=true)
